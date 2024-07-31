@@ -30,7 +30,7 @@ export async function GET(request) {
   }
 
   catch(error){
-    conole.log(error)
+    console.log(error)
     return NextResponse.json(error)
   }
 
