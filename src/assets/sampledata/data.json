@@ -1,0 +1,188 @@
+{ 
+  "cardone":[  
+    {
+        "heading": "Better reach",        
+        
+        "descripiton": "Amplify your business with our expertise! We provide better reach through targeted strategies, maximizing your online presence and engaging your audience for lasting impact."
+    },
+    {
+        "heading": "Better solution",
+        "descripiton": "Transform your business with our innovative solutions! We provide better solutions through digital marketing and IT services, driving growth, efficiency, and success for a thriving online presence."
+    },
+    {
+        "heading": "Better outcomes",
+        "descripiton": "Accelerate your business success! We deliver better outcomes through data-driven digital marketing, tailored marketing strategies, and expert IT services, driving revenue growth and long-term sustainability."
+    }
+],
+
+"cardtwo" :[
+    {
+        "heading": "Paid search marketing",
+        "icon": "icon",
+        "description": "Craft campaigns — built just for your business — to ensure real and quantifiable ROI."
+    },
+    {
+        "heading": "Search engine optimization",
+        "icon": "icon",
+        "description": "Maintain your best spot on the search results page, so you can find new customers and re-engage loyal ones."
+    },
+    {
+        "heading": "Email marketing",
+        "icon": "icon",
+        "description": "When it comes to reaching your target audience, you can’t get much closer than direct to their inboxes."
+    },
+    {
+        "heading": "Conversion rate optimization",
+        "icon": "icon",
+        "description": "Craft campaigns — built just for your business — to ensure real and quantifiable ROI."
+    }
+],
+
+"imageCard" : [
+    {
+        "imageUrl": "image",
+        "date": "MAY 2023",
+        "title": "How social media can help business to grow"
+    },
+    {
+        "imageUrl": "image",
+        "date": "MAY 2023",
+        "title": "How IT and technology propel business growth"
+    },
+    {
+        "imageUrl": "image",
+        "date": "MAY 2023",
+        "title": "Right solution for right one"
+    }
+],
+"featureCardData":[
+    {
+        "heading": "Website Development",
+        "description": "Technologies - Wordpress , Wix , React.js , Next.js , Java , PHP , Laravel , Node.js"
+    },
+    {
+        "heading": "Application Development Both Android/IOS ",
+        "description": "Technologies - React Native , Flutter , Java , Kotlin"
+    },
+    {
+        "heading": "Software Development",
+        "description": "We offer customized software solutions tailored to your business needs to enhance business efficiency and growth"
+    },
+    {
+        "heading": "Paid search marketing",
+        "description": "Craft campaigns — built just for your business — to ensure real and quantifiable ROI."
+    },
+    {
+        "heading": "Search engine optimization",
+        "description": "Maintain your best spot on the search results page, so you can find new customers and re-engage loyal ones."
+    },
+    {
+        "heading": "Email marketing",
+        "description": "When it comes to reaching your target audience, you can’t get much closer than direct to their inboxes."
+    },
+    {
+        "heading": "Conversion rate optimization",
+        "description": "Craft campaigns — built just for your business — to ensure real and quantifiable ROI."
+    },
+    {
+        "heading": "Social media marketing",
+        "description": "Social Media Management is vital for company and brand awareness."
+    },
+    {
+        "heading": "Google shopping",
+        "description": "Google shopping ads are a no-brainer for any eCommerce company with an online presence wishing to increase sales."
+    },
+    {
+        "heading": "Influencer marketing",
+        "description": "Grow your brand with the help of our influencers and marketing experts."
+    },
+    {
+        "heading": "Amazon shopping",
+        "description": "Marketing on Amazon is all about keywords and presentation."
+    },
+    {
+        "heading":"Translation Services",
+        "description":"Enhance your global reach with our Translation Services. We offer accurate and culturally sensitive translations, ensuring your message resonates with audiences worldwide."
+    }
+    
+
+],
+"proofData":[
+    {
+        "value":"40%",
+        "descripiton":"Average increase in sales for our clients"
+    },
+    {
+        "value":"90%",
+        "descripiton":"Google and Facebook-certified team"
+    },
+    {
+        "value":"80%",
+        "descripiton":"Results improved compared to previous agencies"
+    }
+],
+"resultsData":[
+    
+        {
+            "value":"3%",
+            "descripiton":"Of Google advertisers"
+        },
+        {
+            "value":"80%",
+            "descripiton":"Growth clients"
+        },
+        {
+            "value":"30L",
+            "descripiton":"Managed budgets"
+        }
+],
+"ourValues":[
+    {
+        "heading":"Client-Centric Approach",
+        "description":"We place our clients at the center of everything we do. Our commitment to understanding your unique needs and delivering tailored solutions ensures that we help you achieve your goals with precision and care."
+    },
+    {
+        "heading":"Excellence in Execution",
+        "description":"Quality is our hallmark. We strive for excellence in every project, from the smallest detail to the grandest strategy, ensuring that our work consistently meets the highest standards of performance and creativity."
+    },
+    {
+        "heading":"Innovation and Adaptability",
+        "description":"In a constantly evolving digital landscape, we embrace innovation and adaptability. By staying ahead of industry trends and leveraging cutting-edge technologies, we provide solutions that drive growth and keep you ahead of the competition."
+    },
+    {
+        "heading":"Collaboration and Integrity",
+        "description":"Teamwork and integrity are the cornerstones of our success. We foster a collaborative environment where open communication and mutual respect lead to exceptional results, while upholding the highest ethical standards in all our interactions."
+    }
+],
+"teamData":[
+    {
+        "url":"",
+        "name":"Mr. Garvit Chawla",
+        "designation":"CEO & Founder"
+    },
+    {
+        "url":"",
+        "name":"Mr. Priyam Pathak",
+        "designation":"COO & Founder"
+    }
+    
+],
+"ourProficiency":[
+    {
+        "heading":"Business Solutions",
+        "description":"To help your company succeed in a cutthroat market, we provide strategic advice and workable solutions."
+    },
+    {
+        "heading":"Digital Marketing",
+        "description":"Your internet presence, traffic, and conversions will all be enhanced by our digital marketing techniques."
+    },
+    {
+        "heading":"Website Development",
+        "description":"We design and develop beautiful, useful websites that improve user experience and accurately convey the essence of your business."
+    },
+    {
+        "heading":"Translation Services",
+        "description":"Enhance your global reach with our Translation Services. We offer accurate and culturally sensitive translations, ensuring your message resonates with audiences worldwide."
+    }
+]
+}
